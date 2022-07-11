@@ -41,30 +41,30 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     
 
 /*============== SOCIAL ==============*/
-global.sig = 'https://instagram.com/zalfapontianak'
-global.sgh = 'https://github.com/Botynyakamu'
+global.sig = 'https://instagram.com/heyyhimm__'
+global.sgh = 'https://github.com/HeyyHimm'
 global.sgc = 'https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv'
-global.sdc = 'https://wa.me/message/LSVGQQPG6FUQF1'
+global.sdc = 'https://wa.me/62882000785631'
 global.snh = 'https://youtube.com/channel/UCeUvY_fIVSAaQ1n5SAylI-A'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085828764046'
-global.povo = '085828764046'
-global.pgopay = '085828764046'
+global.pdana = '0882000785631'
+global.povo = '0882000785631'
+global.pgopay = '0882000785631'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285787476829'
-global.nomorown = '6285828377610'
-global.namebot = '⳹ ❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
-global.nameown = 'ᴹᴿ᭄ ZifaOffcོ_1ঔৣ꧂'
+global.nomorbot = '6287829488552'
+global.nomorown = '62882000785631'
+global.namebot = '⳹ ❋ཻུ۪۪⸙Anyaa-Bot-V2⳹ ❋ཻུ۪۪'
+global.nameown = 'ᴹᴿ᭄ Himm-xd ঔৣ꧂'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285828377610'],
-  ['6285828377610'],
-  ['6285828377610'],
-  ['6285828377610', 'Rozi', true]
+  ['62882000785631'],
+  ['62882000785631'],
+  ['62882000785631'],
+  ['62882000785631', 'Himm', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -109,13 +109,13 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = '⳹ ❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪' //Main Watermark
-global.wm2 = '⳹ ❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
-global.wm3 = '⳹ ❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
+global.wm = '⳹ ❋ཻུ۪۪⸙AnyaaBotz-MD⳹ ❋ཻུ۪۪' //Main Watermark
+global.wm2 = '⳹ ❋ཻུ۪۪⸙AnyaaBotz-MD⳹ ❋ཻུ۪۪'
+global.wm3 = '⳹ ❋ཻུ۪۪⸙AnyaaBotz-MD⳹ ❋ཻུ۪۪'
 global.botdate = `☘︎ 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `☘︎ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗠𝘂𝗹𝘁𝗶-𝗗𝗲𝘃𝗶𝗰𝗲| By ${global.nameown}`
-global.author = '┄┄┄┅┅❑ ROZI ❑┅┅┄┄┄'
+global.author = '┄┄┄┅┅❑ HeyyHimm ❑┅┅┄┄┄'
 
 
 /*============== LOGO ==============*/
